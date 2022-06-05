@@ -1,0 +1,9 @@
+[
+    {
+        "model": "api.product",
+        "pk": 1,
+        "fields": {
+            "name": "My product"
+        }
+    }
+]

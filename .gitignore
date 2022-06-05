@@ -1,0 +1,5 @@
+# https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/
+# Django
+*.pyc
+__pycache__
+db.sqlite3
